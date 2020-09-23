@@ -1,4 +1,3 @@
 # Design-and-Analysis-of-Algorithms
-Supplement materials
 
-Ipython examples of data structures and algorithms
+data structures and algorithms implementation in python
